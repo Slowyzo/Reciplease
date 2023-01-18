@@ -1,0 +1,66 @@
+
+body 
+{color:rgb(42, 58, 16);
+background-color: rgb(233, 227, 219);
+}
+
+.press
+{font-size: 24px;
+background-color: darkkhaki;
+color: sienna;
+font-weight: bold;
+}
+
+.header
+{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(0, 0, 0);
+text-align: left;
+}
+
+#main-title
+{color:rgb(196, 0, 196);
+font-size: 48px;
+font-weight: bolder;
+font-family: "Brush Script MT", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+text-decoration:overline;
+}
+
+#link-list
+{font-size: 20px;
+font-style: oblique;
+}
+
+#home
+{background-image: url(./images/egg-background.jpg);
+}
+
+#childream-body
+{background-image: url(./images/childream-background.jpg);
+background-repeat: no-repeat;
+}
+
+#companeasy-body
+{background-image: url(./images/companeasy-background.jpeg);
+background-color: khaki;
+font-weight: bolder;}
+
+#romantastic-body
+{background-image: url(./images/romantastic-background.jpg);
+background-color:dimgrey;
+color:red;
+font-weight: bolder;
+}
+
+#desserved-body.header
+{color: darkblue;
+font-weight: bold;
+}
+
+#desserved-body
+{background-image: url(./images/desserved-background.jpeg);
+background-color: beige;
+font-weight: bold;
+color:darkblue
+}
+
